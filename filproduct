@@ -1,0 +1,193 @@
+#EXTM3U
+
+=Local Channel=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Qvc9mX/ANC.png" group-title="Local Channel",ANC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=37
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FyHkS8/Ayq-Nn-Hj-d.webp" group-title="Local Channel",CNN Philippines
+https://iptv-sniper.herokuapp.com/localtv.php?channel=10
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vw7n2Pt/gma7.png" group-title="Local Channel",GMA 7
+https://iptv-sniper.herokuapp.com/localtv.php?channel=5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHDhc6/Gtvch27.png" group-title="Local Channel",GTV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3TzcXqb/Jeepney-TV.png" group-title="Local Channel",Jeepney TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=76
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWdP659/Kapamilya-Channel-2020-n-v.png" group-title="Local Channel",Kapamilya Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=11
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMZQbX0/image.png" group-title="Local Channel",One PH
+https://iptv-sniper.herokuapp.com/localtv.php?channel=42
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LS2v5HK/One-Sports-logo-svg.png" group-title="Local Channel",One Sports
+https://iptv-sniper.herokuapp.com/localtv.php?channel=50
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kcMkX7H/images.png" group-title="Local Channel",Teleradyo
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NxywRC2/5.png" group-title="Local Channel",TV 5
+https://iptv-sniper.herokuapp.com/localtv.php?channel=8
+
+=Entertainment=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBSk3qH/AXN.png" group-title="Entertainment",AXN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=62
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ysLfT8D/Crime-Investigation.png" group-title="Entertainment",Crime Investigation
+https://iptv-sniper.herokuapp.com/localtv.php?channel=35
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7R1B5Vd/KBSWorld.webp" group-title="Entertainment",KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VnDPCQ/Lifetime.png" group-title="Entertainment",Lifetime
+https://iptv-sniper.herokuapp.com/localtv.php?channel=55
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz9WmLH/Rock-Entertainment.png" group-title="Entertainment",Rock Entertainment
+https://iptv-sniper.herokuapp.com/localtv.php?channel=56
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqVhT09/Rock-Extreme.png" group-title="Entertainment",Rock Extreme
+https://iptv-sniper.herokuapp.com/localtv.php?channel=57
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMK8C7c/TVN.png" group-title="Entertainment",TVN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=85
+
+=Movies=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SJm80gT/Cinemax.png" group-title="Movies",Cinemax
+https://iptv-sniper.herokuapp.com/localtv.php?channel=16
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cCXqgKX/Cinema-One.png" group-title="Movies",Cinema One
+https://iptv-sniper.herokuapp.com/localtv.php?channel=14
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M27k7PV/HBO.png" group-title="Movies",HBO
+https://iptv-sniper.herokuapp.com/localtv.php?channel=15
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tKVfc5/Hits-Movies.png" group-title="Movies",Hits Movies
+https://iptv-sniper.herokuapp.com/localtv.php?channel=22
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3GMyyg/PBO.png" group-title="Movies",PBO
+https://iptv-sniper.herokuapp.com/localtv.php?channel=12
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnG8vvh/TMC.png" group-title="Movies",TMC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzZWVY0/Viva-Cinema.png" group-title="Movies",Viva Cinema
+https://iptv-sniper.herokuapp.com/localtv.php?channel=13
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vNY5kY/WarnerTV.png" group-title="Movies",Warner TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=21
+
+=Kids=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vqt1mk0/Animax.png" group-title="Kids",Animax
+https://iptv-sniper.herokuapp.com/localtv.php?channel=24
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNnfnK2/BabyTV.png" group-title="Kids",Baby TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=86
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wL5ZJg/Boomerang.png" group-title="Kids",Boomerang
+https://iptv-sniper.herokuapp.com/localtv.php?channel=30
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2dS8TG/Cartoon-Network.png" group-title="Kids",Cartoon Network
+https://iptv-sniper.herokuapp.com/localtv.php?channel=29
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzW1HPz/Dream-Works.png" group-title="Kids",DreamWorks
+https://iptv-sniper.herokuapp.com/localtv.php?channel=23
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wswLGgw/Nickelodeon.png" group-title="Kids",Nickelodeon
+https://iptv-sniper.herokuapp.com/localtv.php?channel=28
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7GpBZ6/NickJR.webp" group-title="Kids",Nick JR
+https://iptv-sniper.herokuapp.com/localtv.php?channel=27
+
+=Educational=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KxJdWj/Animal-Planet.png" group-title="Educational",Animal Planet
+https://iptv-sniper.herokuapp.com/localtv.php?channel=49
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gRB2LZ8/BBCEarth.png" group-title="Educational",BBC Earth
+https://iptv-sniper.herokuapp.com/localtv.php?channel=33
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8D3CYdb/Discovery-Asia.png" group-title="Educational",Discovery Asia
+https://iptv-sniper.herokuapp.com/localtv.php?channel=46
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fG9J8M1/Discovery-Channel.png" group-title="Educational",Discovery Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=45
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hC3kTCg/History.png" group-title="Educational",History
+https://iptv-sniper.herokuapp.com/localtv.php?channel=53
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KqRkpQ5/Nat-Geo-Wild.png" group-title="Educational",Nat Geo Wild
+https://iptv-sniper.herokuapp.com/localtv.php?channel=51
+
+=Music=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QkdX86c/MTVLive.png" group-title="Music",MTV Live
+https://iptv-sniper.herokuapp.com/localtv.php?channel=66
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zcmy0Ff/MYX.png" group-title="Music",MYX
+https://iptv-sniper.herokuapp.com/localtv.php?channel=75
+
+=Lifestyle=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jqgbnb8/Asian-Food-Network.png" group-title="Lifestyle",Asian Food Network
+https://iptv-sniper.herokuapp.com/localtv.php?channel=63
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcJ9SS2/Fashion-TV.png" group-title="Lifestyle",Fashion TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=96
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7V43BR/HGTV.png" group-title="Lifestyle",HGTV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=87
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pb5MS6W/Metro-Channel.png" group-title="Lifestyle",Metro Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=58
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V3QkyG7/TLC.png" group-title="Lifestyle",TLC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=47
+
+=International News=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RQ4HyX/BBCWorld-News.png" group-title="International News",BBC World News
+https://iptv-sniper.herokuapp.com/localtv.php?channel=40
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NYDPz6v/Bloomberg.png" group-title="International News",Bloomberg
+https://iptv-sniper.herokuapp.com/localtv.php?channel=44
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2C2G1Q/CNBC.png" group-title="International News",CNBC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=43
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH4ygYg/CNN.png" group-title="International News",CNN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=38
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnm2gzd/DWNews.png" group-title="International News",DW News
+https://iptv-sniper.herokuapp.com/localtv.php?channel=94
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nQ5Bzr/FoxNews.png" group-title="International News",Fox News
+https://iptv-sniper.herokuapp.com/localtv.php?channel=39
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDRn115/France24.png" group-title="International News",France 24
+https://iptv-sniper.herokuapp.com/localtv.php?channel=95
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXDLtHr/NHKWorld.png" group-title="International News",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+=Sports=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzWw9Q1/Fight-Sports.png" group-title="Sports",Fight Sports
+https://iptv-sniper.herokuapp.com/localtv.php?channel=18
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yP83crp/ESPN.png" group-title="Sports",ESPN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=32
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWWnq54/Euro-Sports.png" group-title="Sports",Euro Sports
+https://iptv-sniper.herokuapp.com/localtv.php?channel=48
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G7mybdF/Premier-Sports-PH.png" group-title="Sports",Premier Sports
+https://iptv-sniper.herokuapp.com/localtv.php?channel=36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xLmtmtn/TAPSports.png" group-title="Sports",Tap Sports
+https://iptv-sniper.herokuapp.com/localtv.php?channel=31
