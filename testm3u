@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ThtRPCf/Live-Stream.png" group-title="Test Stream",Test Channel
-http://122.54.205.173/auth/NfvoFp4H-Sra9bMiv1MGAMykdugCUuLy_Nk34h8QbIj9H-FJOHe7zc972zfZyYSp4_nIKmjwidbl1j4LN1oeei9uHH874YR5Jna4gvOCiLDQohfmRRoZXgeOElYaH9cLkTEecmIc1jHc8uyv6x-2AK5qtSwrxyPK0MxqaazZS4l7m6HxLkgYjCIWTwMJqToN-RUtRyHDXjK4uLC6yQ9VrsaA9F_odgu1fMa2bQ57eIA91lG217u6FhTHxvgLi6-gtn9Eukp1-6Bde9Tum5upWJWfrwa0FMCNjguGFYNBMDlz9egGjyG1bTg6fEQEB9okO4TbE9QZoGT5RZwXfj-2jjOwqbPclLm_i40AyUwA8U1GmbOX_TKR2EWizSKy0eJihX7Vtk4lMAz0N-r4XwSxPHL5RNNpB92TIs8y-dL62qiU1qdxokvJax0g46WAaMgbMhkYYnyxAbtjxAiStfXjhqhJAKmv1vVHkrdUWUC2Ae-FLiQeY779XTth31A4CmigkQyBf7QX4YQhQbNwtW28GcDZ3us0y9WwPT4DJs_Y9IDRzrJlpZOItLX0sbjTSbj4eogKn11CsaNb7_i6srH35nqtOK1b5V5QD4KbT1Pbwoo
+http://122.54.205.173:80/live/PH-BCS/PH-BCS/297.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 1)
