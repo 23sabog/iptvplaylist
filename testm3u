@@ -15,3 +15,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2en3
 #EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 4)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2en4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yjP2Yj/A2-Z-Channel-11.png" group-title="Local Channel",A2Z
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7f6b9c6ae27f4898918a7d403c14064b&key=6d8780fe25a690e926b1f71bff1c5505
+https://subfvj7tzt.akamaized.net/out/u/3015.mpd
