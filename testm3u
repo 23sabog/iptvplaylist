@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ThtRPCf/Live-Stream.png" group-title="Test Stream",Test Channel
-
+https://d1k2us671qcoau.cloudfront.net/vodapi/viu_akm.m3u8?vid=25a83358fca79d68b25dd0c3ea465432&layer=Layer3&ts=202210081531&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMWsydXM2NzFxY29hdS5jbG91ZGZyb250Lm5ldC92b2RhcGkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NTIxNjA5NH19fV19&Signature=LRtMGrIMcjSMtSF2a5WUBN3Uz57Fcm-ER8xJQIlBmmzpmuJ7NhZneVKzP4F6o0t-5975KZR4ZQqzRWRO6AQEBZMlvPXkxoGuK2Dmdl2AXIIz-OiSNhbgP4-48AkFZ51EAw-usYxfr5iMdiWF-HabiAzGlAST8SE-ucpRuwercvanHui4GmBqdd4naHpgHzI6f-RgcjJ2up~Ahhw~8ebfnIKsQRC0u-LtNfc72wg8rEKvTu52G7~Z9wP1vNqC4d4DPe56ZF2J0WPPnVDXd9J3fBDsAemHGYNHEGJymAwzPj-LPxZmvr8KxBtPL-TOIQommILVqA5iWS3ie8iPkQ1~WQ__&Key-Pair-Id=APKAJ6Z4RF5IYK7Y3SQQ
 
 #EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 1)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2
