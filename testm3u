@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ThtRPCf/Live-Stream.png" group-title="Test Stream",Test Channel
-https://edge15-nrt.live.mmcdn.com/live-hls/amlst:archive17-sd-02da4a8ba6f39cc3ed87bf9a9088e3670a5706f2c4f36e2583ab4cd762065aba_trns_h264/chunklist_w270934489_b2796000_t64RlBTOjI5Ljk3.m3u8
+https://edge157.stream.highwebmedia.com/live-hls/amlst:8abycat-sd-3fa760bc914936f45f112938d4c422f1e4c8b9683c2425d073623fb785db592e_trns_h264/chunklist_w955220795_b1148000_t64RlBTOjMwLjA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 1)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2
