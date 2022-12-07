@@ -189,7 +189,7 @@ http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/186.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DWWnq54/Euro-Sports.png" group-title="Sports",Euro Sports
 =48
 
-#EXTINF:-1 tvg-logo="XXX" group-title="Sports",NBA TV Philippines
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="Sports",NBA TV Philippines
 http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/135.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G7mybdF/Premier-Sports-PH.png" group-title="Sports",Premier Sports
