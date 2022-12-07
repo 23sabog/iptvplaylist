@@ -6,7 +6,7 @@
 =37
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5FyHkS8/Ayq-Nn-Hj-d.webp" group-title="Local Channel",CNN Philippines
-=10
+http://27.110.186.94:8443/live/YRk6go0fNkTVmUtvKtfojA/1670455794/209.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vw7n2Pt/gma7.png" group-title="Local Channel",GMA 7
 http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/101.m3u8
@@ -21,16 +21,16 @@ http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/165.m3u8
 http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMZQbX0/image.png" group-title="Local Channel",One PH
-=42
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/162.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LS2v5HK/One-Sports-logo-svg.png" group-title="Local Channel",One Sports
-=50
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/136.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcMkX7H/images.png" group-title="Local Channel",Teleradyo
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NxywRC2/5.png" group-title="Local Channel",TV 5
-=8
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/114.m3u8
 
 =Entertainment=
 
