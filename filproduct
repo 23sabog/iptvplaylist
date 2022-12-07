@@ -9,16 +9,16 @@
 =10
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vw7n2Pt/gma7.png" group-title="Local Channel",GMA 7
-=5
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcHDhc6/Gtvch27.png" group-title="Local Channel",GTV
-=7
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3TzcXqb/Jeepney-TV.png" group-title="Local Channel",Jeepney TV
 http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KWdP659/Kapamilya-Channel-2020-n-v.png" group-title="Local Channel",Kapamilya Channel
-=11
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMZQbX0/image.png" group-title="Local Channel",One PH
 =42
@@ -60,6 +60,9 @@ http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/165.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJm80gT/Cinemax.png" group-title="Movies",Cinemax
 =16
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png/revision/latest/scale-to-width-down/1200?cb=20210301131124" group-title="Movies",Cine Mo!
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/104.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cCXqgKX/Cinema-One.png" group-title="Movies",Cinema One
 =14
 
@@ -70,13 +73,13 @@ http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/165.m3u8
 =22
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X3GMyyg/PBO.png" group-title="Movies",PBO
-=12
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/105.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LnG8vvh/TMC.png" group-title="Movies",TMC
 =9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XzZWVY0/Viva-Cinema.png" group-title="Movies",Viva Cinema
-=13
+http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/186.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9vNY5kY/WarnerTV.png" group-title="Movies",Warner TV
 =21
