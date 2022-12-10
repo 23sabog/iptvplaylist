@@ -18,7 +18,7 @@ http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/103.m3u8
 http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KWdP659/Kapamilya-Channel-2020-n-v.png" group-title="Local Channel",Kapamilya Channel
-http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/98.m3u8
+http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/23406
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMZQbX0/image.png" group-title="Local Channel",One PH
 http://103.152.216.26:8443/live/Yg-uI8ANgdPFZJrMD5S1Hw/1670455422/162.m3u8
