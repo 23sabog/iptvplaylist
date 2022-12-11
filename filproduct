@@ -9,7 +9,7 @@ http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/23429
 http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vw7n2Pt/gma7.png" group-title="Local Channel",GMA 7
-http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/
+http://103.152.216.26:8443/live/jPXFrFsLf81bZiHr9NAaLw/1670846403/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcHDhc6/Gtvch27.png" group-title="Local Channel",GTV
 http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/
