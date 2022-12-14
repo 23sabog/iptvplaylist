@@ -93,6 +93,7 @@ http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/23457
 http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/23406
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKfhbRG/knowledgechannel.png" group-title="Local Channel",Knowledge Channel
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZsHssb/image.png" group-title="Local Channel" ,One PH 
 http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/23455
