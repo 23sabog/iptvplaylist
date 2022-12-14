@@ -375,7 +375,7 @@ http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/23458
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="International News",Al Jazeera
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWgX1x7/anc-colored.png" group-title="International News",ANC
-http://tvshow.iona.ml:80/phciptv/1r98RUP1KF/23429
+https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="International News",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
