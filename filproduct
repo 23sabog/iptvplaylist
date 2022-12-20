@@ -81,24 +81,24 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8ByrtpctVDQ0N4e3eG4ur_uMJ833LsIZsQ&usqp=CAU" group-title="Local Channel",DZMM TeleRadyo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5mXd50/gma7.png" group-title="Local Channel",GMA
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23409
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23409
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8cNfzd/Gtvch27.png" group-title="Local Channel",GTV
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23431
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23431
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3TzcXqb/Jeepney-TV.png" group-title="Local Channel",Jeepney TV
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23457
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23457
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_(2020-.n.v.).png/revision/latest?cb=20200908093734" group-title="Local Channel",Kapamilya Channel
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23406
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23406
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKfhbRG/knowledgechannel.png" group-title="Local Channel",Knowledge Channel
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZsHssb/image.png" group-title="Local Channel" ,One PH 
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23455
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23455
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local Channel",One Sport
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23403
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23403
 
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Local Channel",PTV
 
@@ -109,12 +109,12 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3k03TmB/5.png" group-title="Local Channel",TV 5
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23408
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23408
 
 =Anime=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Anime",Animax
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/282
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/282
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dWYwST9/Anime-All-Ages.png" group-title="Anime",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -137,7 +137,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",Cartoon Network
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23442
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23442
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
 
@@ -150,10 +150,10 @@ http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23442
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrhBDR6.png" group-title="Kids",Moonbug Kids
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23444
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23444
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="Kids",Nick Jr.
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23443
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23443
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -176,20 +176,20 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_(Black_&_Red).svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png/revision/latest/scale-to-width-down/1200?cb=20210301131124" group-title="Movies",Cine Mo!
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23412
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23412
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png" group-title="Movies",Cinema One
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23414
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23414
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23423
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23423
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23424
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23424
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JP6pvBE.png" group-title="Movies",HBO Xtreme
 
@@ -198,22 +198,22 @@ http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23424
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="Movies",Paramount Network
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest?cb=20201209065132" group-title="Movies",PBO
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23413
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23413
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="Movies",Showcase Movies
 
 #EXTINF:-1 tvg-logo="https://tmc.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Movies",TMC
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23410
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23410
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="Movies",tvN Movies
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png/revision/latest?cb=20210804093235" group-title="Movies",Viva Cinema
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23411
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23411
 
 =Educational=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23483
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23483
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="Educational",BBC Earth
 
@@ -222,7 +222,7 @@ http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23483
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_(2021).svg/640px-History_(2021).svg.png" group-title="Educational",History
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23447
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23447
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="Educational",Investigation Discovery
 
@@ -294,7 +294,7 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Entertainment",VH1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23399
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23399
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2015_WWE_logo.svg/1200px-2015_WWE_logo.svg.png" group-title="Entertainment",WWE
 
@@ -305,7 +305,7 @@ http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23399
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNM8CPG/MTV-Asia.png" group-title="Music",MTV Asia
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOQ3UADBtkeVIhv2epZHO6XX1ievBrTw5fQ&usqp=CAU" group-title="Music",MTV Live
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23433
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23433
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1117px-Myxphlogo.svg.png" group-title="Music",MYX
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
@@ -360,7 +360,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="Lifestyle",TLC
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23458
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23458
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle",Travel Channel
 
@@ -426,7 +426,7 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="Sports",NBA TV Philippines
-http://tvshow.iona.ml:80/phciptv/pbCupXcwRl/23435
+http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23435
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/851d4M3/1659009337210.png" group-title="Sports",Premier Sports
 
