@@ -1,19 +1,17 @@
 #EXTM3U
+#EXT-X-TARGETDURATION:7
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:78043
+#EXT-X-PROGRAM-DATE-TIME:2022-12-25T01:33:55Z
+#EXTINF:6.940,
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ThtRPCf/Live-Stream.png" group-title="Test Stream",Test Channel
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/dota2ti
+2022/12/25/01/33/55-06940.ts?token=397b0f5967bbfb2c01b6f607f66956a9
+#EXTINF:5.205,
 
-#EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 1)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2
+2022/12/25/01/34/02-05205.ts?token=397b0f5967bbfb2c01b6f607f66956a9
+#EXTINF:5.205,
 
-#EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 2)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2en2
+2022/12/25/01/34/07-05205.ts?token=397b0f5967bbfb2c01b6f607f66956a9
+#EXTINF:5.230,
 
-#EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 3)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2en3
-
-#EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 4)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2en4
-
-#EXTINF:-1 tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11487/80529475ee925a1d22b1ebf033a33ae3.png" group-title="Test Stream",PGL Dota 2 (Livestream 5)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pgl_dota2en5
+2022/12/25/01/34/12-05230.ts?token=397b0f5967bbfb2c01b6f607f66956a9
