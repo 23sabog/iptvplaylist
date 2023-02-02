@@ -1,9 +1,335 @@
 #EXTM3U
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,
-RESOLUTION=480x360,
-FRAME-RATE=29.970,
-CODECS="avc1.4d0028,
-mp4a.40.2",
-AVERAGE-BANDWIDTH=180000,
-BANDWIDTH=230000
-tracks-v1a1/mono.m3u8?token=397b0f5967bbfb2c01b6f607f66956a9
+#EXTINF:-1 group-title="PHILIPPINES" ,Arabic TFC
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307654
+#EXTINF:-1 group-title="PHILIPPINES" ,PH A2Z  (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307655
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ABC Austrailia (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307656
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ABS CBN News Channel (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307657
+#EXTINF:-1 group-title="PHILIPPINES" ,PH AL JAZEERA (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307658
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ANC (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307659
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ANIMAL PLANET (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307660
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ANIMAX (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307661
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Aniplus Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307662
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ARIRANG TV WORLD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307663
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ASIAN FOOD CHANNEL (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307664
+#EXTINF:-1 group-title="PHILIPPINES" ,PH AXN (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307665
+#EXTINF:-1 group-title="PHILIPPINES" ,PH BBC Earth HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307666
+#EXTINF:-1 group-title="PHILIPPINES" ,PH BBC World News (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307667
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Be in sports 1 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307668
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Be in sports 2 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307669
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Beijing 2022 Olympics (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307670
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Blue Ant Extreme Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307671
+#EXTINF:-1 group-title="PHILIPPINES" ,PH BOOMERANG (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307672
+#EXTINF:-1 group-title="PHILIPPINES" ,PH BUKO Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307673
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CARTOON NET HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307674
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Cartoon Network (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307675
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CCTV 4 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307676
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CELESTIAL MOV PINOY (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307677
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CGTV DOC DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307678
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CHANNEL NEWS ASIA (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307679
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Cinema One (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307680
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Cinema World (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307681
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" ,PH Cinemax (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307682
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Cinemo (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307683
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Cinemo APAC (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307684
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Cinemo EMEA (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307685
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Cinemo Nola (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307686
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CineXpress HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307687
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CineXpress SD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307688
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CLTV 36 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307689
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CLTV36_DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307690
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CNBC (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307691
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CNN (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307692
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CNN (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307693
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CNN HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307694
+#EXTINF:-1 group-title="PHILIPPINES" ,PH CNN Philipines (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307695
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Crime Investigation SD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307696
+#EXTINF:-1 group-title="PHILIPPINES" ,PH DepEd (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307697
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Discovery Asia (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307698
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Discovery Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307699
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Dreamworks HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307700
+#EXTINF:-1 group-title="PHILIPPINES" ,PH DZRH News (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307701
+#EXTINF:-1 group-title="PHILIPPINES" ,PH DZRH NEWS TV (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307702
+#EXTINF:-1 group-title="PHILIPPINES" ,PH EGG (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307703
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ETC DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307704
+#EXTINF:-1 group-title="PHILIPPINES" ,PH EWTN (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307705
+#EXTINF:-1 group-title="PHILIPPINES" ,PH EWTN_DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307706
+#EXTINF:-1 group-title="PHILIPPINES" ,PH EZ Shop (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307707
+#EXTINF:-1 group-title="PHILIPPINES" ,PH FASHION TV HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307708
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Fight (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307709
+#EXTINF:-1 group-title="PHILIPPINES" ,PH FOOD NETWORK HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307710
+#EXTINF:-1 group-title="PHILIPPINES" ,PH France24_DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307711
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GCTV DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307712
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GigaPlay 1 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307713
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GigaPlay 2 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307714
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GigaPlay 3 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307715
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GigaPlay 4 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307716
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GMA 7 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307717
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GMA LIFE (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307718
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GMA News TV (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307719
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GMA News TV (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307720
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GMA NEWS(C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307721
+#EXTINF:-1 group-title="PHILIPPINES" ,PH GMA Pinoy TV (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307722
+#EXTINF:-1 group-title="PHILIPPINES" ,PH H2 HD (History 2) (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307723
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HBO (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307724
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HBO Family (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307725
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HBO HITS (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307726
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HBO HITS HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307727
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HBO SIGNALTURE (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307728
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HGTV HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307729
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Hilsong Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307730
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HISTORY HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307731
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HITS HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307732
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HITS Movies (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307733
+#EXTINF:-1 group-title="PHILIPPINES" ,PH HORSE RACING (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307734
+#EXTINF:-1 group-title="PHILIPPINES" ,PH IBC13 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307735
+#EXTINF:-1 group-title="PHILIPPINES" ,PH IBC13 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307736
+#EXTINF:-1 group-title="PHILIPPINES" ,PH INC TV  DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307737
+#EXTINF:-1 group-title="PHILIPPINES" ,PH INC TV (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307738
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Jeepney TV (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307739
+#EXTINF:-1 group-title="PHILIPPINES" ,PH K-Plus Channel  (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307740
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Kapamilya (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307741
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Kapamilya Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307742
+#EXTINF:-1 group-title="PHILIPPINES" ,PH KBS  (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307743
+#EXTINF:-1 group-title="PHILIPPINES" ,PH KIX HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307744
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Knowledge Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307745
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Knowledge Channel (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307746
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Lifetime (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307747
+#EXTINF:-1 group-title="PHILIPPINES" ,PH LIGHT TV (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307748
+#EXTINF:-1 group-title="PHILIPPINES" ,PH LIGHT TV (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307749
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Metro Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307750
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Moonbug Kids SD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307751
+#EXTINF:-1 group-title="PHILIPPINES" ,PH MTV LIVE (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307752
+#EXTINF:-1 group-title="PHILIPPINES" ,PH MTV PINOY (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307753
+#EXTINF:-1 group-title="PHILIPPINES" ,PH MYX (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307754
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NAT GEO SD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307755
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NAT GEO WILD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307756
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NBA PREMIUM FHD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307757
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NBA PREMIUM HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307758
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NBN 4 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307759
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NET 25 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307760
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NHK Japan_DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307761
+#EXTINF:-1 group-title="PHILIPPINES" ,PH NHK WORLD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307762
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Nick (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307763
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Nick Jr (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307764
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Olympics Pop-up Channel_MN (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307765
+#EXTINF:-1 group-title="PHILIPPINES" ,PH One (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307766
+#EXTINF:-1 group-title="PHILIPPINES" ,PH One News  SD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307767
+#EXTINF:-1 group-title="PHILIPPINES" ,PH One news HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307768
+#EXTINF:-1 group-title="PHILIPPINES" ,PH One News HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307769
+#EXTINF:-1 group-title="PHILIPPINES" ,Ph ONE Sport (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307770
+#EXTINF:-1 group-title="PHILIPPINES" ,PH ONE SPORTS (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307771
+#EXTINF:-1 group-title="PHILIPPINES" ,PH One Sports Plus (HYPER HD) (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307772
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Outdoor Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307773
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Paramount Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307774
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Pay Per View FHD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307775
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Pay Per View SD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307776
+#EXTINF:-1 group-title="PHILIPPINES" ,PH PBA RUSH (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307777
+#EXTINF:-1 group-title="PHILIPPINES" ,PH PBO (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307778
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Peoples Television (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307779
+#EXTINF:-1 group-title="PHILIPPINES" ,PH PINOY XTREME (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307780
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Premier Football HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307781
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Premier Sports HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307782
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Premier Tennis HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307783
+#EXTINF:-1 group-title="PHILIPPINES" ,PH PTV4 (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307784
+#EXTINF:-1 group-title="PHILIPPINES" ,PH RJTV DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307785
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Rock Entertainment (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307786
+#EXTINF:-1 group-title="PHILIPPINES" ,PH RUSH PBA (FHD) (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307787
+#EXTINF:-1 group-title="PHILIPPINES" ,PH SARI SARI (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307788
+#EXTINF:-1 group-title="PHILIPPINES" ,PH SMNI (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307789
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Sonshine DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307790
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Tap Action Flix HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307791
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Tap Edge Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307792
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TAP Movies HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307793
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Tap Sports (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307794
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TAP TV (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307795
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Tech Storm Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307796
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TeleNovela (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307797
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Teleradio (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307798
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TFC (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307799
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TFC Asia (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307800
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TFC Australia (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307801
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TFC Canada (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307802
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TFC Europe (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307803
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TFC Middle East (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307804
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TFC USA (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307805
+#EXTINF:-1 group-title="PHILIPPINES" ,PH thill (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307806
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TLC (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307807
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Travel Channel (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307808
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TV SHOP DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307809
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TV5 (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307810
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TV5 (D)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307811
+#EXTINF:-1 group-title="PHILIPPINES" ,PH Tv5 Monde ASIE DR (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307812
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TV5 OTT (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307813
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TVN (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307814
+#EXTINF:-1 group-title="PHILIPPINES" ,PH TVN FHD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307815
+#EXTINF:-1 group-title="PHILIPPINES" ,PH UAAP Varsity CH (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307816
+#EXTINF:-1 group-title="PHILIPPINES" ,PH UNTV (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307817
+#EXTINF:-1 group-title="PHILIPPINES" ,PH UNTV (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307818
+#EXTINF:-1 group-title="PHILIPPINES" ,PH VIVA CINEMA (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307819
+#EXTINF:-1 group-title="PHILIPPINES" ,PH WARNER HD (C)
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307820
