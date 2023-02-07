@@ -74,6 +74,7 @@ https://play.wishfm.com/radio/wish.m3u8
 =Local Channel=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2yjP2Yj/A2-Z-Channel-11.png" group-title="Local Channel",A2Z
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307655
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Local Channel",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
@@ -114,7 +115,7 @@ http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23408
 =Anime=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Anime",Animax
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/282
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307661
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dWYwST9/Anime-All-Ages.png" group-title="Anime",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -137,7 +138,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",Cartoon Network
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23442
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307675
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
 
