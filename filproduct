@@ -144,10 +144,10 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307675
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrhBDR6.png" group-title="Kids",Moonbug Kids
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
-
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307763
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="Kids",Nick Jr.
-
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307767
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -167,57 +167,54 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movies",Celestial Movies
 
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_(Black_&_Red).svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_(Black_&_Red).svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png/revision/latest/scale-to-width-down/1200?cb=20210301131124" group-title="Movies",Cine Mo!
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23412
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png" group-title="Movies",Cinema One
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23414
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23423
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23424
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JP6pvBE.png" group-title="Movies",HBO Xtreme
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Movies",Hits Movies
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307733
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="Movies",Paramount Network
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307774
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest?cb=20201209065132" group-title="Movies",PBO
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23413
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307778
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="Movies",Showcase Movies
 
 #EXTINF:-1 tvg-logo="https://tmc.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Movies",TMC
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23410
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="Movies",tvN Movies
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png/revision/latest?cb=20210804093235" group-title="Movies",Viva Cinema
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23411
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307819
 
 =Educational=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23483
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307660
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="Educational",BBC Earth
-http://clientsportals.com:2095/live/mfEsyKem/tJWQ4g8d/463614.ts
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307666
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305" group-title="Educational",Discovery Asia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307699
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_(2021).svg/640px-History_(2021).svg.png" group-title="Educational",History
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23447
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="Educational",Investigation Discovery
 
@@ -247,6 +244,7 @@ https://wildearth-roku.amagi.tv/master.m3u8
 =Entertainment=
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" group-title="Entertainment",AXN
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307665
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" group-title="Entertainment",Crime Investigation
 
@@ -261,9 +259,10 @@ https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" group-title="Entertainment",HITS
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307732
 
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",KPlus
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23502
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307740
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 
@@ -290,7 +289,7 @@ http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23502
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Entertainment",VH1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23399
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307820
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2015_WWE_logo.svg/1200px-2015_WWE_logo.svg.png" group-title="Entertainment",WWE
 
@@ -301,7 +300,6 @@ http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23399
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNM8CPG/MTV-Asia.png" group-title="Music",MTV Asia
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOQ3UADBtkeVIhv2epZHO6XX1ievBrTw5fQ&usqp=CAU" group-title="Music",MTV Live
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23433
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1117px-Myxphlogo.svg.png" group-title="Music",MYX
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
@@ -336,6 +334,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03
 =Lifestyle=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/250?cb=20191129100706" group-title="Lifestyle",Asian Food Network
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307664
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fSbrMcw/1656255885485.png" group-title="Lifestyle",BBC Lifestyle
 
@@ -356,9 +355,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="Lifestyle",TLC
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23458
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307807
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle",Travel Channel
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307808
 
 =Relegious=
 
@@ -367,8 +367,10 @@ http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23458
 =International News=
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="International News",ABC Australia
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307656
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="International News",Al Jazeera
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307658
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWgX1x7/anc-colored.png" group-title="International News",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
@@ -377,6 +379,7 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG6T_n88k0jX2QdoFgBt1VMAuW39S8x-uHg&usqp=CAU" group-title="International News",BBC World News
+http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307667
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="International News",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
@@ -422,7 +425,6 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="Sports",NBA TV Philippines
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23435
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/851d4M3/1659009337210.png" group-title="Sports",Premier Sports
 
