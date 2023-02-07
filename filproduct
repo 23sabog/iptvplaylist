@@ -82,24 +82,18 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8ByrtpctVDQ0N4e3eG4ur_uMJ833LsIZsQ&usqp=CAU" group-title="Local Channel",DZMM TeleRadyo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5mXd50/gma7.png" group-title="Local Channel",GMA
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23409
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8cNfzd/Gtvch27.png" group-title="Local Channel",GTV
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23431
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3TzcXqb/Jeepney-TV.png" group-title="Local Channel",Jeepney TV
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23457
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_(2020-.n.v.).png/revision/latest?cb=20200908093734" group-title="Local Channel",Kapamilya Channel
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23406
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKfhbRG/knowledgechannel.png" group-title="Local Channel",Knowledge Channel
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZsHssb/image.png" group-title="Local Channel" ,One PH 
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23455
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local Channel",One Sport
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23403
 
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Local Channel",PTV
 
@@ -110,7 +104,6 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3k03TmB/5.png" group-title="Local Channel",TV 5
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23408
 
 =Anime=
 
@@ -151,10 +144,10 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307675
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrhBDR6.png" group-title="Kids",Moonbug Kids
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23444
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="Kids",Nick Jr.
-http://tvshow.iona.ml:80/phciptv/kzHBTrjbvc/23443
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
