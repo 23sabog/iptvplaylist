@@ -116,7 +116,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/ANIME_ALL_DAY.svg/revision/latest/scale-to-width-down/300?cb=20210803041231" group-title="Anime",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="xxx" group-title="Anime",AniPlus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="Anime",AniPlus
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307662
 
 #EXTINF:-1 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="Anime",CONtv Anime
@@ -170,7 +170,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movies",Celestial Movies
 
-#EXTINF:-1 tvg-logo="xxx" group-title="Movies",Celestial Movies Pinoy
+#EXTINF:-1 tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Movies",Celestial Movies Pinoy
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307677
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_(Black_&_Red).svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
@@ -200,7 +200,7 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307778
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="Movies",Showcase Movies
 
-#EXTINF:-1 tvg-logo="xxx" group-title="Movies",Thrill
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307806
 
 #EXTINF:-1 tvg-logo="https://tmc.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Movies",TMC
