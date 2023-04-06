@@ -54,7 +54,7 @@ http://s2.radio.co/sa85100da7/listen
 http://stream-20.zeno.fm/536cwdq78heuv?zs=BzIu3YKaToeyXmz06brsNw
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/K-LITE_1035_new.png" group-title="Local Radio",103.5 K-Lite
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/1035klite
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8j7k8wT/Fm2ph.png" group-title="Local Radio",104.3 Capital FM2
 http://122.53.138.32:8000/dwbr.mp3
@@ -74,7 +74,7 @@ https://play.wishfm.com/radio/wish.m3u8
 =Local Channel=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2yjP2Yj/A2-Z-Channel-11.png" group-title="Local Channel",A2Z
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307655
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Local Channel",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
@@ -108,7 +108,7 @@ https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
 =Anime=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Anime",Animax
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307661
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dWYwST9/Anime-All-Ages.png" group-title="Anime",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -117,7 +117,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="Anime",AniPlus
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307662
+
 
 #EXTINF:-1 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="Anime",CONtv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
@@ -134,7 +134,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",Cartoon Network
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307675
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
 
@@ -147,10 +147,10 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307675
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrhBDR6.png" group-title="Kids",Moonbug Kids
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307763
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="Kids",Nick Jr.
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307764
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -171,7 +171,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movies",Celestial Movies
 
 #EXTINF:-1 tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Movies",Celestial Movies Pinoy
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307677
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_(Black_&_Red).svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
 
@@ -190,25 +190,25 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307677
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JP6pvBE.png" group-title="Movies",HBO Xtreme
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Movies",Hits Movies
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307733
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="Movies",Paramount Network
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307774
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest?cb=20201209065132" group-title="Movies",PBO
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307778
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="Movies",Showcase Movies
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307806
+
 
 #EXTINF:-1 tvg-logo="https://tmc.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Movies",TMC
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="Movies",tvN Movies
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png/revision/latest?cb=20210804093235" group-title="Movies",Viva Cinema
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307819
+
 
 =Educational=
 
