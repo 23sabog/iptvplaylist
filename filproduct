@@ -213,15 +213,15 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 =Educational=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307660
+
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="Educational",BBC Earth
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307666
+
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305" group-title="Educational",Discovery Asia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307699
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_(2021).svg/640px-History_(2021).svg.png" group-title="Educational",History
 
@@ -253,7 +253,6 @@ https://wildearth-roku.amagi.tv/master.m3u8
 =Entertainment=
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" group-title="Entertainment",AXN
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307665
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" group-title="Entertainment",Crime Investigation
 
@@ -268,13 +267,10 @@ https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" group-title="Entertainment",HITS
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307732
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="Entertainment",KIX
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307744
 
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",KPlus
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307740
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 
@@ -301,7 +297,6 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307740
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Entertainment",VH1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307820
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2015_WWE_logo.svg/1200px-2015_WWE_logo.svg.png" group-title="Entertainment",WWE
 
@@ -346,7 +341,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03
 =Lifestyle=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/250?cb=20191129100706" group-title="Lifestyle",Asian Food Network
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307664
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fSbrMcw/1656255885485.png" group-title="Lifestyle",BBC Lifestyle
 
@@ -367,10 +361,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="Lifestyle",TLC
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307807
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle",Travel Channel
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307808
 
 =Relegious=
 
@@ -379,10 +371,8 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307808
 =International News=
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="International News",ABC Australia
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307656
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="International News",Al Jazeera
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307658
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWgX1x7/anc-colored.png" group-title="International News",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
@@ -391,7 +381,6 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG6T_n88k0jX2QdoFgBt1VMAuW39S8x-uHg&usqp=CAU" group-title="International News",BBC World News
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307667
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="International News",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
