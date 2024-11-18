@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AXN" group-title="MPD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",AXN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
