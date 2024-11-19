@@ -1,6 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="XXX" group-title="Test" tvg-logo="XXX",Random
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
