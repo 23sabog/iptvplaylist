@@ -4,5 +4,4 @@
 
 #EXTINF:-1 tvg-logo="XXXX" group-title="XXXX",XXXX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa1764ea83e4db689347beea141d26be
-http://5.223.45.65:18890/nbaph/miswa/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=
