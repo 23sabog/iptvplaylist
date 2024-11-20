@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="XXX" group-title="Test" tvg-logo="XXX",Random
-http://cdn2.miswa.org/master.m3u8?id=BcakeArk/playlist.m3u8
+http://5.223.45.65:18890/nbaph/miswa/manifest.mpd?token=fa1764ea83e4db689347beea141d26be&user=BcakeAr&exp=1732078153
