@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="XXX" group-title="Test" tvg-logo="XXX",Random
+http://xtvplayer.top:8080/live/Aizad0006/Aizad%400006/352603.ts
 
 #EXTINF:-1 tvg-logo="XXXX" group-title="XXXX",XXXX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
