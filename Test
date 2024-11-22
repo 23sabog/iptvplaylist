@@ -5,6 +5,6 @@
 
 #EXTINF:-1 tvg-logo="OXXXXXXXXO" group-title="TEST PLAYLIST",RANDOM CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=9c7bd9243c296c3bc9f90ccd606dc5e5
+http://5.223.45.65:18890/nbaph/miswa/manifest.mpd
 
