@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="OXXXXXXXXO" group-title="TEST PLAYLIST",RANDOM CHANNEL
-
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd?image=aHR0cHM6Ly9kaXZpZ24wZmR3M3N2LmNsb3VkZnJvbnQubmV0L0ltYWdlcy9DaGFubmVsTG9nby9jb250ZW50aHViLzEzMV8xNDQucG5n&title=AXN
 
 #EXTINF:-1 tvg-logo="OXXXXXXXXO" group-title="TEST PLAYLIST",RANDOM CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
