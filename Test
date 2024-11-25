@@ -4,3 +4,7 @@
 
 #EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",XxxxxxxxX
 #KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",Hits Movies
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
