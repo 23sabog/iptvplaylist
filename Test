@@ -1,10 +1,3 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="OXXXXXXXXO" group-title="TEST PLAYLIST",RANDOM CHANNEL
-
-#EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",XxxxxxxxX
-#KODIPROP:inputstream.adaptive.license_key=
-
-#EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",TLC
-#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
