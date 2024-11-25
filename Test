@@ -5,6 +5,6 @@
 #EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",XxxxxxxxX
 #KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",Hits Movies
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+#EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",TLC
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
