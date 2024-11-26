@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="OXXXXXXXXO" group-title="TEST PLAYLIST",RANDOM CHANNEL
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
-
 #EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",XXX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
