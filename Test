@@ -8,8 +8,4 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391838&exte
 #EXTINF:-1 tvg-logo="XxxxxxxxxxxX" group-title="HD",XXX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
-#EXTINF:-1 tvg-id = "beINSports2" group-title="PREMIUM SPORTS" ch-number = "818" tvg-logo="https://i.ibb.co/fGJzJNh/Bein-Sport-2fr-HD-ur-HDtv-FREE-ONLINE-CHANNELS-TELEVISION-LIVE-STREAMING-removebg-preview.png", Bein Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=Clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/658928
