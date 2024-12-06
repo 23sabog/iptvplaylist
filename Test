@@ -3,17 +3,14 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391838&extension=ts&play_token=CxTMGzhlWp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369601&extension=ts&play_token=YuZ9dXtCrX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066682&extension=ts&play_token=wMsMU25Ro6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
