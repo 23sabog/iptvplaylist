@@ -7,7 +7,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
+https://edgiolive.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
