@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
-https://edgiolive.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="Random Channel",Test 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
