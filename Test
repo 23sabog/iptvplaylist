@@ -8,7 +8,7 @@ https://www.iwanttfc.com/https://abslive.akamaized.net/dash/live/2112806/pbbmain
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
+http://abslive.studentsdemo.com/hls/stream_1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1faWQiOiIgMSIsImV4cCI6MzMxOTUyMjc5Nn0.EMovSvY_JpfhQyqfoEkDFpGQFoszxMgabuWYK2z9lqM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
