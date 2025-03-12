@@ -23,5 +23,5 @@ http://abslive.studentsdemo.com/hls/stream_1/playlist.m3u8?token=eyJhbGciOiJIUzI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEnPH2R.png" group-title="Random Channel",PBB All-Access Livestream
 #EXTVLCOPT:http-referrer="https://www.iwanttfc.com/"
-#EXTVLCOPT:key-uri="data:text/plain;base64,ODQzOGU4NDk1NjU5NDI1NTg1YTA5NzQ5Y2Q2YmMzOWE6OWQ5MmIxMmRiMDkyZmU2YmRmMjIwN2VmN2EyYTllNjU"
+#EXTVLCOPT:key-uri="8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65"
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
