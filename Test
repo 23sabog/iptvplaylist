@@ -20,3 +20,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEnPH2R.png" group-title="Random Channel",PBB All-Access Livestream
 http://abslive.studentsdemo.com/hls/stream_1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1faWQiOiIgMSIsImV4cCI6MzMxOTUyMjc5Nn0.EMovSvY_JpfhQyqfoEkDFpGQFoszxMgabuWYK2z9lqM
+
+#EXTINF:-1,Sample Channel with ClearKey
+#EXTVLCOPT:http-referrer="https://www.iwanttfc.com/"
+#EXTVLCOPT:key-uri="data:text/plain;base64,eyJrZXlzaWQiOiAiMDAwMDAwMDAwMDAwMDAwMCIsICJrZXlzIjogW3sia2lkIjogIjAwMDAwMDAwMDAwMDAwMDAiLCAia2V5IjogIkFCQ0RFRkdISUpLTE1OUE9RU1RVV1gifV19"
+https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
