@@ -18,7 +18,7 @@
 
 ==xxx==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aEnPH2R.png" group-title="Random Channel",PBB All-Access Livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEnPH2R.png" group-title="Random Channel",PBB Collab All-Access Livestream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
