@@ -22,3 +22,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 http://abslive.studentsdemo.com:7860/hls/stream_11/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1faWQiOiIgMTEiLCJleHAiOjMzMTk5ODM1MzJ9.j5DGrZM9qOgBc52ZmXNP-o54AdcUzMOdaNyI1XCXKsY
+
+#EXTINF:-1,Pinoy Big Brother Main
+#EXTVLCOPT:http-referrer="https://www.iwanttfc.com/"
+#EXTVLCOPT:key-uri="data:text/plain;base64,eyJrZXlzaWQiOiAiODQzOGU4NDk1NjU5NDI1NTg1YTA5NzQ5Y2Q2YmMzOWEiLCAia2V5cyI6IFt7ImtpZCI6ICI5ZDkyYjEyZGIwOTJmZTZiZGYyMjA3ZWY3YTJhOWU2NSIsICJrZXkiOiAiOUQ5MkIxMkRCMDkyRkU2QkRGMjIwN0VGN0EyQTlFNjUifV19"
+https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
