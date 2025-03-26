@@ -6,6 +6,6 @@
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.iwanttfc.com/ 
-#EXTVLCOPT:http-header=X-Auth-Token: 8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65 
+#EXTVLCOPT:http-header=X-Auth-Token:NDQzOGU4NDk1NjU5NDI1NTg1YTA5NzQ5Y2Q2YmMzOWE6OWQ5MmIxMmRiMDkyZmU2YmRmMjIwN2VmN2EyYTllNjU= 
 #EXTINF:-1, Channel Name 
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
