@@ -1,37 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS FIREPLACE MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS FIREPLACE MUSIC
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391835&extension=ts&play_token=5yL922XjoA
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS CARTOONS" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS CARTOONS
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369601&extension=ts&play_token=YuZ9dXtCrX
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369599&extension=ts&play_token=tZGVOvYmW5
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 1 FHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066682&extension=ts&play_token=wMsMU25Ro6
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 2 FHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066681&extension=ts&play_token=eqEIoAPRqZ
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 3 FHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066680&extension=ts&play_token=6lJxuzdw92
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 4 FHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066679&extension=ts&play_token=ktvCp5pgwv
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 5 FHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066678&extension=ts&play_token=JqFrLMXSSi
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 6 FHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066677&extension=ts&play_token=PwcEtUnN7g
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MUSIC MIX" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MUSIC MIX
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391832&extension=ts&play_token=lCnOECeEGc
-
 #EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
 #EXTVLCOPT:http-header=Authorization: Basic NDQzOGU4NDk1NjU5NDI1NTg1YTA5NzQ5Y2Q2YmMzOWE6OWQ5MmIxMmRiMDkyZmU2YmRmMjIwN2VmN2EyYTllNjU=
 #EXTINF:-1,Your Channel Name
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/ 
+#EXTVLCOPT:http-header=X-Auth-Token: 8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65 
+#EXTINF:-1, Channel Name 
+https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
