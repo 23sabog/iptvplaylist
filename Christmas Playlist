@@ -30,7 +30,8 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066677&exte
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MUSIC MIX" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MUSIC MIX
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391832&extension=ts&play_token=lCnOECeEGc
 
-
-
-
+#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
+#EXTVLCOPT:http-header=Authorization: Basic NDQzOGU4NDk1NjU5NDI1NTg1YTA5NzQ5Y2Q2YmMzOWE6OWQ5MmIxMmRiMDkyZmU2YmRmMjIwN2VmN2EyYTllNjU=
+#EXTINF:-1,Your Channel Name
+https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
 
