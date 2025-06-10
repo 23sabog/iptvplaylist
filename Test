@@ -18,7 +18,7 @@
 
 ==xxx==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aEnPH2R.png" group-title="Random Channel",PBB Collab All-Access Livestream
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/liltay
+#EXTINF:-1 tvg-logo="XxX" group-title="Converge Vision",KAPAMILYA HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch000000909900000012890/manifest.mpd?virtualDomain=001.live_hls.zte.com
