@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/dr_ppv_main_hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,32 +18,3 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="XxX" group-title="Converge Vision",Random Channel 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001326/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="XxX" group-title="Converge Vision",Random Channel 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001195/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="XxX" group-title="Converge Vision",Random Channel 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="XxX" group-title="Converge Vision",Random Channel 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-
-
-#EXTINF:-1 tvg-logo="XxX" group-title="Converge Vision",Random Channel 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
