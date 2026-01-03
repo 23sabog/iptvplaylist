@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Converge Vision",GMA 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/
-http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1438418816418&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BLJMICF8T5XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367179&ispcode=55
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
