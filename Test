@@ -17,4 +17,4 @@
 #KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Converge", Test Channel
-http://136.239.173.10:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=tRzTOpmGnFQO%2BLPz%2BYdiO1tIO5t7kXc%2B5TWDqBRKE%2FYw9hLZ8J1ElZC%2FWWIT6WZOqvjJr%2FpQ%2FQS4GeriEFi9sg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1752071398378&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=70L2D05C8F5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820251218173221586683&ispcode=55
+http://136.239.173.3:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr70
