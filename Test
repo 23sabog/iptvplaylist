@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 0
+http://136.239.173.10:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=tRzTOpmGnFQO%2BLPz%2BYdiO1tIO5t7kXc%2B5TWDqBRKE%2FYw9hLZ8J1ElZC%2FWWIT6WZOqvjJr%2FpQ%2FQS4GeriEFi9sg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1752071398378&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=70L2D05C8F5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 1
 
