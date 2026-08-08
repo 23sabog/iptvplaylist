@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+http://136.239.173.3:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr70JxlZHE85iqqUwY%2BlbxPsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1153314047374&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N3KWA75YPNMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155240188205&ispcode=55
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Test%20Logo.png" group-title="Random Channel",Test 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
