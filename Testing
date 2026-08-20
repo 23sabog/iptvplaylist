@@ -1,12 +1,12 @@
 EXTM3U billed-msg="23sab0g Playlist"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/A2Z.png" group-title="Converge | General Entertainment",A2Z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/A2Z.png" group-title="Converge - General Entertainment",A2Z
 http://136.158.97.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqHRrK8UUahwItHhKpXgPXKsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1162684427362&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8JVNIKBBFCRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449220260101155236184115&ispcode=55
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Aliw%20Channel%2023.png" group-title="Converge | Movies",ALIW CHANNEL 23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/23sabog/Channel-Logo/refs/heads/main/Aliw%20Channel%2023.png" group-title="Converge - Movies",ALIW CHANNEL 23
 http://136.239.158.30:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp%2BWYKp0pXQLOnfpLMLHi2tsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1860238582120&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6WO7AWCG0YYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448120260101155238039836&ispcode=55
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/All_TV_2022_logo.png" group-title="Converge | Sports",ALL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/All_TV_2022_logo.png" group-title="Converge - Sports",ALL TV
 http://136.239.173.2:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAow35sHUcBhGBpxqddBGYEnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1260075967329&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HKF4YXSGDBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453020260101155239201657&ispcode=55
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/1200?cb=20130823135759" group-title="General Entertainment & Free TV",CLTV 36
